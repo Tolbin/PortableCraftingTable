@@ -1,5 +1,6 @@
 PortableCraftingTable
 =====================
+A Bukkit plugin.
 
 The commands are /pct and /wb.
 
