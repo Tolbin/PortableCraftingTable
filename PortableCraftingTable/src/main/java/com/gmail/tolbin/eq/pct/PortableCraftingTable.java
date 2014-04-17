@@ -102,7 +102,7 @@ public class PortableCraftingTable extends JavaPlugin implements Listener {
             } else if (!(player.hasPermission("pct.use"))) {
                 player.sendMessage(ChatColor.RED + "You don't have permissions to do that!");
             } else {				
-                player.sendMessage(ChatColor.GREEN + "Portable Crafting Table is turned off. Use /pct\" to toggle on.");
+                player.sendMessage(ChatColor.GREEN + "Portable Crafting Table is turned off. Use /pct to toggle on.");
             }
             return true;
         }
