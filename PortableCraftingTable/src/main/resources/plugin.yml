@@ -1,0 +1,12 @@
+name: PortableCraftingTable
+version: 0.0.1
+author: eq.tolbin@gmail.com
+main: com.gmail.tolbin.eq.pct.PortableCraftingTable
+description: Portable Crafting Table
+commands:
+  pct:
+    description: Turn PortableCrafting <on/off>.
+    usage: /<command> <on/off>
+  wb:
+    description: Use the PortableCrafting workbench.
+    usage: /<command>
